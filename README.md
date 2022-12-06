@@ -1,27 +1,15 @@
----
-title: Vite (TS)
-description: Example Vite app that is configured with Typescipt
-tags:
-  - vite
-  - typescript
----
+# MODEL 3D
 
-# Vite + Typescript Example
-This example utilises vite for static site generation
+[Go Back](../Readme.md)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Mm5EWG?referralCode=OH27A5)
+3D visualization of the warehouses and respective connecting roads.
 
-## ✨ Features
+## Subjects
 
-- Vite
-- TypeScript
+- SGRAI
 
-## 💁‍♀️ How to use
+## UserStories
 
-- Install dependencies `yarn`
-- Connect to your Railway project `railway link`
-- Start the development server `railway run yarn dev`
-
-## 📝 Notes
-
-The project is directly derived from the standard creation with some extra configuration to make sure it is quick and easy to get started on hosting your next site with railway. 
+- [LS75-162](https://lei-isep-ricardo.atlassian.net/jira/software/projects/LS75/boards/1?selectedIssue=LS75-162) - Visualize the road network in a 3D Model
+- [LS75-172](https://lei-isep-ricardo.atlassian.net/jira/software/projects/LS75/boards/1?selectedIssue=LS75-172) - Add commands for camera pan, zoom and orbit
+- [LS75-167](https://lei-isep-ricardo.atlassian.net/jira/software/projects/LS75/boards/1?selectedIssue=LS75-167) - Visualize warehouses in a 3D Model
