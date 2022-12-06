@@ -1,5 +1,7 @@
 import { PathDto } from "../dtos/path";
 import { Warehouse } from "./warehouse";
+import * as THREE from "three";
+
 
 export class Path {
   public startWarehouseId: string;
