@@ -20,7 +20,7 @@ import { Skybox } from "./core/skybox";
 import { ModelLoader } from "./core/modelLoader";
 import { CookieHelper } from "./utils/cookieHelper";
 import { WarehouseDto } from "./dtos/warehouse";
-import { PathDto } from "./dtos/Path";
+import { PathDto } from "./dtos/path";
 
 function init() {
   //* ##################################################################### //

@@ -1,4 +1,4 @@
-import { PathDto } from "../dtos/Path";
+import { PathDto } from "../dtos/path";
 import { Warehouse } from "./warehouse";
 
 export class Path {

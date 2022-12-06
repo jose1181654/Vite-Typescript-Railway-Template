@@ -1,6 +1,6 @@
 import { injectable } from "inversify";
 import { IPathService } from "../services/IPathService";
-import { PathDto } from "../dtos/Path";
+import { PathDto } from "../dtos/path";
 import { LogisticsHttpService } from "../http-services";
 
 @injectable()

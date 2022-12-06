@@ -1,5 +1,5 @@
 import { injectable } from "inversify";
-import { PathDto } from "../dtos/Path";
+import { PathDto } from "../dtos/path";
 import { IPathService } from "../services/IPathService";
 
 @injectable()
